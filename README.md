@@ -12,3 +12,4 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 # hardhar_simplestorage_fcc
+# hardhar_simplestorage_fcc
